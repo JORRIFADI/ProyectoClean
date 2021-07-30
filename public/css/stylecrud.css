@@ -1,0 +1,17 @@
+.card img {
+    width: 40%;
+    align-items: center;
+}
+.card-body h5 {
+    text-align: center;
+}
+.card-body p {
+    text-align: justify;
+}
+.row {
+    align-items: center;
+}
+.carruselt {
+    align-items: center;
+    align-content: center;
+}
